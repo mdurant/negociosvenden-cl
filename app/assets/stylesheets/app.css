@@ -1,0 +1,53 @@
+#cabezera {
+    height: 100px;
+    width: 100%;
+    background: #E71F30;
+}
+
+#contlm {
+    height: 100px;
+    width: 950px;
+    margin: 0 auto;
+}
+
+#logo {
+    float: left;
+    height: 77px;
+    width: 277px;
+    margin-top: 10px;
+}
+
+#menu {
+    height: 100px;
+}
+#menu ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    width: 620px;
+    height: 100px;
+    display: block;
+    float: right;
+}
+#menu li {
+    float: left;
+}
+#menu li a {
+    line-height: 100px;
+    display: block;
+    padding: 0 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#slider1_container{
+    display: block;
+    position: relative;
+    width: 920px;
+    height: 281.633px;
+    overflow: hidden;
+    margin: 0 auto;
+}
